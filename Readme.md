@@ -102,7 +102,7 @@ mkcert сгенерирует что-то вроде yourcertname+4-key.pem и y
     ]
     ```
 
-    Чекаем (мануал)[https://laravel.com/docs/5.6/deployment#server-configuration] о правильной настройке.
+    Чекаем [мануал](https://laravel.com/docs/5.6/deployment#server-configuration) о правильной настройке.
 
     Меняем
     ```
